@@ -1,0 +1,778 @@
+Produktbezeichnung;Einheit.Produkt;n;Bemerkungen;Faktor_N;P2O5;Faktor_P;K2O;Faktor_K;Einheiten
+05.10.1930;dt;29;;0.25;;;;;
+05.10.1930;dt;29;keine Infos;0.25;;0;;0;
+16.05.2008;dt;78;;0.25;;;;;
+16.05.2008;dt;74;keine Infos;0.25;;0;;0;
+20.08.2008;dt;19;;0.25;;;;;
+20.08.2008;dt;19;keine Infos;0.25;;0;;0;
+13.08.2025;dt;10;;0.25;;;;;
+  Fosse à lisier pour vaches;m³;19;Güllegrube, Kühe;2.6;1.8;0.792;8;6.64;kg/m3
+ ATS;kg;7;Ammoniumthiosulfat, 12%N;0.12;;0;;0;
+ Branntkalk;dt;2;;;;0;;0;
+ Fosse à lisier pour Génisses;m³;9;Güllegrube, Kühe;2.6;1.8;0.792;8;6.64;kg/m3
+ Mist Weide;t;3;Annahme Kuhmist;1.9;3.2;1.408;10.8;8.964;kg/t
+ Rindervollgülle 1:2  Schleppschlauch;m³;76;;0.85;0.6;0.264;2.3;1.909;kg/m3
+0.14.28;dt;1;;;0.14;0.0616;0.28;0.2324;
+01 Ammonsalpeter 27.5 %;dt;82;;0.275;;0;;0;
+01 Nitrate ammoniaque 27 % N + 2.5 % Mg;dt;149;;0.27;;0;;0;
+0-14-28;dt;7;;;0.14;0.0616;0.28;0.2324;
+01Ammonsalpeter 27.5 %;dt;124;;0.275;;0;;0;
+02 Nitrate magnésien 24 % N + 5 % Mg + S;dt;14;;0.24;;0;;0;
+02 Sulfonitrate 26 % N + B + S;dt;46;;0.26;;0;;0;
+02 Supertriple;dt;6;;;0.46;0.2024;;0;
+02 Triple Superphosphat;dt;10;;;0.46;0.2024;;0;
+02Harnstoff (grob-) granuliert;dt;35;;0.46;;0;;0;
+03 Landor Spécial 6.8.24.2.0,1 ex chl.;dt;4;;0.06;0.08;0.0352;0.24;0.1992;
+03 Mg-Ammonsalpeter 25% + S;dt;29;;0.25;;0;;0;
+03 Potasse granulée 60 %;dt;6;;;;0;0.6;0.498;
+03 Supertriple;dt;10;;;0.46;0.2024;;0;
+03 Terbona IP chlorfrei;dt;20;;0.12;0.06;0.0264;0.18;0.1494;
+04 Landor P 26;dt;3;;;0.26;0.1144;;0;
+04 Nitrate magnésien 24 % N + 5 % Mg + S;dt;8;;0.24;;0;;0;
+04 Potasse granulée 60 %;dt;2;;;;0;0.6;0.498;
+05 Kalisalz 60 % Granulat;dt;17;;;;0;0.6;0.498;
+05 Potasse de magnésie sans chlore;dt;4;;;;0;0.6;0.498;
+2 x 15 plus;dt;132;;0.15;0.15;0.066;;0;
+Activtonic;dt;5;;0.04;;0;;0;
+Agro Biosol;dt;2;;0.07;0.07;0.0308;0.01;0.0083;
+Agro Kalk;dt;2;;;;0;;0;
+Agro-Düngkalk;dt;249;;0.12;;0;;0;Annahmen
+Alle Güllengruben;m³;191;Annahme Kuhgülle;2;1.8;0.792;8;6.64;kg/m3
+alte Grube;m³;10;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+Alte Güllegrube;m³;25;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+AminoBasic;hl;11;;0.09;;0;;0;in %
+Ammon/Bor 26N. 0.2B. 14S.;dt;26;;0.26;;0;;0;
+Ammon-Harnstoff  gemisch;dt;16;;0.3;;0;;0;
+Ammonsalpeter;dt;134;;0.335;;0;;0;
+Ammonsalpeter + Mg;dt;217;;0.27;;0;;0;
+Ammonsalpeter + Mg + S;dt;3;;0.27;;0;;0;
+Ammonsalpeter 1/27.5 %;dt;52;;0.275;;0;;0;
+Ammonsalpeter 23 % + 13 % Ca;dt;231;;0.23;;0;;0;
+Ammonsalpeter 24 % + 5 %  Mg;dt;9;;0.24;;0;;0;
+Ammonsalpeter 24 % + 5% Mg 7 % S;dt;8;;0.24;;0;;0;
+Ammonsalpeter 24%;kg;5;;0.24;;0;;0;
+Ammonsalpeter 24% + 5 %  Mg + 7% S;dt;36;;0.24;;0;;0;
+Ammonsalpeter 25 % + 5 %  Mg;dt;34;;0.25;;0;;0;
+Ammonsalpeter 25 % + 5&%MG + 8.5% S;dt;14;;0.25;;0;;0;
+Ammonsalpeter 25 + Mg;kg;26;;0.25;;0;;0;
+Ammonsalpeter 25% +5Mg +8.5 S;dt;3;;0.25;;0;;0;
+Ammonsalpeter 25% Mg + S;dt;57;;0.25;;0;;0;
+Ammonsalpeter 25%+MgS;dt;2;;0.25;;0;;0;
+Ammonsalpeter 27 %;dt;144;;0.27;;0;;0;
+Ammonsalpeter 27 % + 2 5 %  Mg;dt;26;;0.27;;0;;0;
+Ammonsalpeter 27 % + 2.5 %  Mg;dt;4479;;0.27;;0;;0;
+Ammonsalpeter 27 % + 2.5 %  Mg;kg;37;;0.27;;0;;0;
+Ammonsalpeter 27 % + 2.5 % Mg;dt;35;;0.27;;0;;0;
+Ammonsalpeter 27 % + 2.5 % Mg + 4.5 % Ca;dt;66;;0.27;;0;;0;
+Ammonsalpeter 27 % + 2.5 % Mg + 9 % Ca;dt;327;;0.27;;0;;0;
+Ammonsalpeter 27 % ohne Mg;dt;207;;0.27;;0;;0;
+Ammonsalpeter 27 ohne Mg;dt;14;;0.27;;0;;0;
+Ammonsalpeter 27%;dt;20;;0.27;;0;;0;
+Ammonsalpeter 27% + 2.5 % Mg + 4.5 % Ca;dt;267;;0.27;;0;;0;
+Ammonsalpeter 27% + Mg;dt;41;;0.27;;0;;0;
+Ammonsalpeter 27.5 %;kg;53;;0.275;;0;;0;
+Ammonsalpeter 27.5 %;dt;3345;;0.275;;0;;0;
+Ammonsalpeter 27+ Mg;kg;12;;0.27;;0;;0;
+Ammonsalpeter Mg + S;dt;13;;0.27;;0;;0;
+Ammonsalpeter Mg S;dt;15;;0.27;;0;;0;
+Ammonsalpeter MGS 25%;dt;29;;0.25;;0;;0;
+Ammonsalpeter MGS 25/5/8.5;dt;11;;0.25;;0;;0;
+Ammonsalpeter mit Kalk;dt;279;;0.2;;0;;0;
+Ammonsalpeter N 25, 5 Mg, 8.5 S;dt;28;;0.25;;0;;0;
+Ammonsulfat flüssig;dt;6;;0.21;;0;;0;
+Ammonsulfat gr. 21 % N + S;dt;11;;0.21;;0;;0;
+Ammonsulfat gran. 21 % N + S;dt;296;;0.21;;0;;0;
+Ammonsulfat gran. 21 % N 3% Mg+ S;dt;10;;0.21;;0;;0;
+Arbellin 2/3 chlorfrei 10% Zeolith;dt;20;;;0.08;0.0352;0.18;0.1494;
+Azolon fluid;l;93;;347;;0;;0;g/l
+Azoplum pelletiert (Federmehl);dt;19;;0.13;;0;;0;
+Beeren- und Obstdünger;dt;6;;;;0;;0;
+Beton Grube Mistgrube;t;14;Annahme Kuhgülle;1.9;2.7;1.188;8.7;7.221;kg/t
+Bettastar;kg;9;;0.04;;0;;0;
+Bio 3 G  Aktiv Tonic;dt;4;;0.04;;0;;0;
+Bio 3G;dt;12;welches Produkt;0.4;;0;;0;
+Bio3g;dt;11;welches Produkt;0.4;;0;;0;
+Bio3G;dt;11;welches Produkt;0.4;;0;;0;
+Biogasgülle;m³;1;k.A.;2.6;;0;;0;kg/m3
+Biogasgülle ;m³;1;k.A.;2.6;;0;;0;kg/m3
+Bioilsa 11;dt;5;;0.11;;0;;0;
+Biorga N pelletiert;dt;87;;0.12;;0;;0;
+Biorga N pelletiert rasche Anfangswirkung;dt;57;;0.12;;0;;0;
+Biorga N Quick;dt;17;;0.12;;0;;0;
+Biorga N Quick gekrümelt besonders rasche Wirkung;dt;11;;0.12;;0;;0;
+Biorga Plumos pelletiert langsame Anfangswirkung;dt;52;;0.12;0.03;0.0132;;0;
+Biorga Vegi  sans chlore granulée;dt;36;;0.05;0.01;0.0044;0.05;0.0415;
+Blaukorn 100 % chlorfrei;dt;24;;0.12;0.12;0.0528;0.17;0.1411;
+Blaukorn chlorarm;dt;5;;0.12;0.12;0.0528;0.17;0.1411;
+Bor-Ammon + Schwefel  26%+ 0.2 B+ 14 S;dt;37;;0.26;;0;;0;
+Bor-Ammon + Schwefel  26%+ B+S;dt;60;;0.26;;0;;0;
+Bor-Ammonsalpeter;dt;7;;0.26;;0;;0;
+Bor-Ammonsalpeter + S;dt;63;;0.26;;0;;0;
+Bor-Ammonsalpeter 26 % + S;dt;303;;0.26;;0;;0;
+BOR-Ammonsalpeter 26 % + S;dt;18;;0.26;;0;;0;
+Bor-Ammonsalpeter 26%+ B+S;dt;92;;0.26;;0;;0;
+Bor-Ammonsalpeter 27.5%;dt;341;;0.275;;0;;0;
+Borax - Fertibor;dt;4;nur Bor;;;0;;0;
+Borostar B15;l;2;nur Bor;;;0;;0;
+Bortrac;l;156;nur Bor;;;0;;0;
+Bovins;t;1;keine Infos;1.7;;0;;0;kg/t
+Brinamon flüssig;kg;27;;0.1;;0;;0;
+Briner Presssaft 15.4 2010;m³;6;;1.6;;0;;0;kg/m3
+Briner Presssaft 15.7.2012;m³;5;;1.6;;0;;0;in %
+Briner Presssaft 18 mai 2009;m³;6;;1.6;;0;;0;kg/m3
+Briner Presssaft 18.8.2011;m³;6;;1.6;;0;;0;kg/m3
+Bucke Schwanden;m³;24;keine Infos;2.6;;0;;0;kg/m3
+Calcifert 13.8.25;dt;1;;0.13;0.08;0.0352;0.25;0.2075;
+Calciphos;dt;10;;;0.06;0.0264;;0;
+Calcium plus, Flüssigdünger;l;1;;;;0;;0;
+Calciumchlorid;l;1;;;;0;;0;
+Calciumchlorid 384;l;8;;;;0;;0;
+Calcophos 9% P;dt;4;;;0.09;0.0396;;0;
+Carodor;dt;31;;0.06;0.08;0.0352;0.28;0.2324;
+Carodor (Rüben);dt;52;;0.06;0.08;0.0352;0.28;0.2324;
+Ceral;dt;84;;;0.16;0.0704;0.32;0.2656;
+Colzador;dt;22;;0.06;0.13;0.0572;0.25;0.2075;
+Colzador (Raps);dt;21;;0.06;0.13;0.0572;0.25;0.2075;
+Colzador PK;dt;6;;;0.13;0.0572;0.25;0.2075;
+Colzador PK (Raps);dt;9;;;0.13;0.0572;0.25;0.2075;
+Compost;t;6;keine Infos;1.7;;0;;0;kg/t
+Compost Germanier;t;5;keine Infos;1.7;;0;;0;kg/t
+Concentro;dt;1;;0.13;0.13;0.0572;0.26;0.2158;
+Condit;dt;25;;0.05;0.01;0.0044;0.02;0.0166;
+Condit A;dt;29;unsichere Info;0.05;0.01;0.0044;0.02;0.0166;
+Condit B;dt;36;unsichere Info;0.05;0.01;0.0044;0.02;0.0166;
+Cresentis seedpotato;dt;6;;0.08;0.08;0.0352;0.3;0.249;
+creux à purin;m³;55;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Crop-Set;l;9;Pflanzenstimulator;;;0;;0;
+Cyanamide;dt;7;Pflanzenstimulator;;;0;;0;
+DAP - Fosam;dt;12;;0.18;0.46;0.2024;;0;
+DAP 18 % N + 46 % P;dt;181;;0.18;0.46;0.2024;;0;
+Diammonphosphat;dt;73;;0.18;0.46;0.2024;;0;
+Dünger NP 28.28;dt;2;;0.28;0.28;0.1232;;0;
+Eigene Gülle;m³;547;Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+eigene Gülle;m³;135;Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+eigener Mist;t;9;Annahme Kuh;1.9;2.7;1.188;8.7;7.221;kg/t
+Eigener Mist;t;3;;1.9;2.7;1.188;8.7;7.221;kg/t
+Engrais  betterave 2011;dt;1;Dünger, Rübe;0.06;0.08;0.0352;0.28;0.2324;Annahmen
+Engrais azoté blé vrac;dt;8;Stickstoffdünger;0.27;;0;;0;Annahmen
+Engrais azoté colza vrac;dt;6;Stickstoffdünger;0.27;;0;;0;Annahmen
+Engrais betteraves;dt;4;Dünger, Rübe;0.06;0.08;0.0352;0.28;0.2324;Annahmen
+Engrais colza 2011;dt;1;keine Infos;0.27;;0;;0;Annahmen
+Engrais complet;dt;4;keine Infos;0.27;;0;;0;Annahmen
+Engrais Fritz;dt;22;Stickstoffdünger;0.27;;0;;0;
+Engrais PK base;dt;3;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais PK Blé Vrac 1;dt;4;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais PK Blé Vrac 2;dt;2;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais PK colza Vrac 1;dt;6;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais PK Pois Vrac 1;dt;2;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais PK Prés Vrac 1;dt;4;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais PK Triticale 1;dt;1;PK Dünger;;0.15;0.066;0.3;0.249;Annahmen
+Engrais pour betterave;dt;1;;0.06;0.08;0.0352;0.28;0.2324;
+Engrais pour colza;dt;1;keine Infos;0.27;;0;;0;Annahmen
+Engrais pour tabac;dt;7;;0.27;;0;;0;Annahmen
+Engrais prairies;dt;16;Wiesendünger;0.27;;0;;0;Annahmen
+Engrais vrac blé 2011;dt;5;;0.27;;0;;0;Annahmen
+Engrais vrac orge 2011;dt;3;;0.27;;0;;0;Annahmen
+Engrais vrac pât et prairies 2011;dt;6;;0.27;;0;;0;Annahmen
+Engrais vrac prairies 2011;dt;5;;0.27;;0;;0;Annahmen
+Entec;dt;25;;0.26;;0;;0;
+En-Tec;dt;10;;0.26;;0;;0;
+Entec 26;dt;84;;0.26;;0;;0;
+Entec Perfeckt;dt;9;;0.14;0.07;0.0308;0.17;0.1411;
+Entec perfekt;dt;106;;0.14;0.07;0.0308;0.17;0.1411;
+Entec perfekt Dünger;dt;3;;0.14;0.07;0.0308;0.17;0.1411;
+Etable à bovins, litière profonde (système à 1 ou ;t;3;Stallmist, Rind;1.7;2.7;1.188;8.7;7.221;kg/t
+Exact 20-8-8;dt;24;;0.2;0.08;0.0352;0.08;0.0664;
+Exakt;dt;9;;0.2;0.08;0.0352;0.08;0.0664;
+Exakt 20.8.8;dt;6;;0.2;0.08;0.0352;0.08;0.0664;
+Exakt Nobilis.. 4.10.30 .3.5. 0.2. 4S;dt;1;;0.04;0.1;0.044;0.3;0.249;
+Fertical 0.10.15;dt;9;;;0.1;0.044;0.15;0.1245;
+Fertical NP;dt;40;;0.15;0.05;0.022;;0;
+Fertical PK;dt;20;;;0.1;0.044;0.15;0.1245;
+Fertimix 0.9.22.5;dt;42;;;0.09;0.0396;0.22;0.1826;
+Fertimix 5.10.28 . 3 mg;dt;17;;0.05;0.1;0.044;0.28;0.2324;
+Fertimix landor 5.10.28 ;dt;2;;0.05;0.1;0.044;0.28;0.2324;
+Fertimix landor 5.10.28+2 Mg;dt;2;;0.05;0.1;0.044;0.28;0.2324;
+Fertimix landor 5.10.30;dt;5;;0.05;0.1;0.044;0.3;0.249;
+Fertiplus;l;11;;130;90;39.6;70;58.1;g/l
+Flüssigdünger S (Stähler);l;10;;100;100;44;75;62.25;g/l
+Flüssigdünger XL;l;6;;0.1;0.1;0;0.075;0;kg/l
+Folifert Super;kg;11;;0.16;0.05;0.022;0.05;0.0415;
+Foskal;dt;13;;;0.11;0.0484;0.33;0.2739;
+Foskal calcique;dt;79;;;0.13;0.0572;0.26;0.2158;
+Foskal mit Kalk;dt;36;;;0.13;0.0572;0.26;0.2158;
+fosse;m³;30;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse 1;m³;109;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse 1 à purin, en béton, fermée;m³;13;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse 2000;m³;184;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse 3 à lisier, en béton, fermée;m³;3;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse à lisier;m³;93;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/t
+Fosse à lisier de porc, en béton, fermée;m³;14;Gülle, Schwein;3.6;3.8;1.672;4.4;3.652;kg/m3
+Fosse à lisier fermée;m³;15;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse à lisier pour Génisses;m³;14;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse à lisier pour vaches;m³;16;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse à lisier, en béton, fermée;m³;955;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse à purin de bovin, en béton, fermée;m³;2;Gülle, Rind;2.6;1.7;0.748;5.2;4.316;kg/m3
+Fosse à purin fermée;m³;1100;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fosse à purin ouverte;m³;45;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+fosse couverte winkler;m³;32;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+fosse génisses;m³;13;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+fosse ouverte reymond;m³;106;Gülle, Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/m3
+Fumier;t;14;Mist, Annahme Kuh;1.7;2.7;1.188;8.7;7.221;kg/t
+Fumier au tas bovin;t;76;Kuhmist;1.7;2.7;1.188;8.7;7.221;kg/t
+Fumier composté;t;14;keine Infos;1.7;;0;;0;kg/t
+Fumier de bovin;t;6;Rindermist;1.7;2.7;1.188;8.7;7.221;kg/t
+Fumier de cheval frais;t;27;Pferdemist;1.7;2.7;1.188;8.7;7.221;kg/t
+Fumier de cheval mûr;t;2;Pferdemist;1.7;2.7;1.188;8.7;7.221;kg/t
+Fumier de l'exploitation;t;8;Annahme Kuh;2.6;1.8;0.792;8;6.64;kg/t
+Fumier de poules (caisse à crottes, él. au sol);t;26;Geflügelmist;10.5;30;13.2;20;16.6;kg/t
+Fumier de poulets;t;65;Geflügelmist;10.5;30;13.2;20;16.6;kg/t
+Fumier de poulets ROUX;t;3;;10.5;30;13.2;20;16.6;kg/t
+Fumier exploitation;t;12;;2.6;1.8;0.792;8.7;7.221;kg/t
+Fumier poulets;t;5;;10.5;30;13.2;20;16.6;kg/t
+Fumier stabulation libre bovins à l'engrais;t;31;Rindermist;1.7;2.7;1.188;5.2;4.316;kg/t
+Fumier Vesin;t;29;keine Infos;1.7;;0;;0;kg/t
+Fumier volaille;t;25;Geflügelmist;10.5;30;13.2;20;16.6;kg/t
+Fumière;t;20;Annahme Kuhmist;1.7;2.7;1.188;8.7;7.221;kg/t
+fumière;t;15;Annahme Kuhmist;1.7;2.7;1.188;8.7;7.221;kg/t
+Gabi plus Flüssigdünger: Gabi 5;l;10;;0.13;0.03;0.0132;0.07;0.0581;in %
+Gabi plus Flüssigdünger: Gabi P;l;8;Posphorsäurelösung;;0.2;0.088;;0;in %
+Gärgülle;m³;2;keine Infos;2.6;;0;;0;kg/m3
+Gärgülle fillgas;m³;1;keine Infos;2.6;;0;;0;kg/m3
+Geldor;dt;41;;0.08;0.12;0.0528;0.2;0.166;
+Getrel;l;44;;100;;0;;0;g/l
+Granor 0.15.30;dt;199;;;0.15;0.066;0.3;0.249;
+Granuphos;dt;139;;;0.18;0.0792;;0;
+Granuphos 18;dt;18;;;0.18;0.0792;;0;
+Grube 1;m³;35;;2.6;1.8;0.792;8;6.64;kg/m3
+Grube alt;m³;42;;2.6;1.8;0.792;8;6.64;kg/m3
+Grube Milchvieh;m³;131;;2.6;1.8;0.792;8;6.64;kg/m3
+Grube neu;m³;302;;2.6;1.8;0.792;8;6.64;kg/m3
+Grube Rindviehstall;m³;93;;2.6;1.7;0.748;5.2;4.316;kg/m3
+Gülle;m³;104;;2.6;1.8;0.792;8;6.64;kg/t
+Gülle Meier;m³;305;;2.6;1.8;0.792;8;6.64;kg/m3
+Gülle R +S 1/2 verd.;m³;11;Rind + Schwein;1.05;1;0.44;2.1;1.743;kg/m3
+Gülle Rind  1/1 verd.;m³;18;;1.3;0.9;0.396;2.6;2.158;kg/m3
+Gülle Rinder 1:1 verdünnt;m³;1658;;1.3;0.9;0.396;2.6;2.158;kg/m3
+Gülle Rinder 1:2 verdünnt;m³;604;;0.85;0.6;0.264;1.7;1.411;kg/m3
+Gülle Rinder kotarm 1:3 verdünnt;m³;89;Annahme 1:2,5;0.6;0.5;0.22;1.5;1.245;kg/m3
+Gülle Rinder kotarm 1:3 verdünnt (Schleppschlaucheinsatz);m³;21;Annahme 1:2,6;0.6;0.5;0.22;1.5;1.245;kg/m3
+Gülle Rinder unverdünnt;m³;35;;2.6;1.7;0.748;5.2;4.316;kg/m3
+Gülle Rindviehmast;m³;16;;2.6;1.7;0.748;6.2;5.146;kg/m3
+Gülle Rohner;m³;116;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Gülle Schweine;m³;3;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Gülle zufuhr Schwein;m³;5;;3.6;3.8;1.672;5.4;4.482;kg/m3
+Güllebehälter;m³;104;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/t
+Güllebehälter alt mit Laufhof;m³;89;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllebehälter neu;m³;62;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllebehälter Unter Mistplatz;m³;4;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllegrube;m³;85;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllegrube Kühe;m³;14;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllegrube Mast;m³;14;;2.6;1.7;0.748;5.2;4.316;kg/m3
+Güllegrube Maststall;m³;109;;2.6;1.7;0.748;6.2;5.146;kg/m3
+Güllegrube Nord;m³;14;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllegrube Wittwil;m³;54;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllegruben;m³;119;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllen R+S 1/1 verd.;m³;18;Rind + Schwein;1.55;1.4;0.616;3.1;2.573;kg/m3
+Güllenbehälter;m³;1;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenbehälter aussen;m³;26;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenbehälter innen;m³;28;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenbehälter, Bergli, Beton, gedeckt;m³;27;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenbehälter, Beton, gedeckt;m³;8269;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenbehälter, Beton, gedeckt 370 m2;m³;35;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenbehälter, Mutterkuhstall;m³;12;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllengrube;m³;2453;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube ;m³;61;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube 600m3;m³;210;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube 95;m³;204;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube alt;m³;17;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Augstburger;m³;31;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Breitenau;m³;15;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Hofen;m³;87;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Kleinweidli;m³;233;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Kühe;m³;13;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Laufstall;m³;115;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube neu;m³;16;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Obergriesen Laufstall;m³;56;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Poulet;m³;2;Geflügelmist;2;30;13.2;20;16.6;kg/m3
+Güllengrube Rinder;m³;12;;2;1.7;0.748;5.2;4.316;kg/m3
+Güllengrube Scheune Gey;m³;57;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Schweine;m³;111;;2;3.8;1.672;4.4;3.652;kg/m3
+Güllengrube Schweinestall;m³;49;;2;3.8;1.672;4.4;3.652;kg/m3
+Güllengrube Untergriesen ;m³;1;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Waldhof;m³;10;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Wannenhof;m³;14;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube Wittwer;m³;152;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Beton, gedeckt;m³;8952;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Beton, gedeckt 100 m2;m³;19;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Beton, gedeckt alt;m³;172;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Beton, gedeckt Jg 1986;m³;1;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Beton, gedeckt Jg 1992;m³;3;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Beton, gedeckt, Bühl;m³;76;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, neuer Stall;m³;6;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube, Planzer,  Beton, ;m³;8;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllengrube/Platz Adermanig;m³;2;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Güllenloch;m³;1;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenloch alt;m³;1;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllenloch mit Spalten;m³;155;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo;m³;1;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo, Beton;m³;373;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo, Beton, mit Abdeckung;m³;605;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo, Beton, offen;m³;1294;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo, Endlager, offen;m³;47;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo, Metall, offen;m³;264;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllensilo, Rüegsbach;m³;9;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllentrog;m³;159;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Güllesilo, Beton, mit Abdeckung;m³;529;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Gülllengrube/Platz Axenmätteli;m³;1;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Harnstoff  (fein-) geprillt;dt;92;;0.46;;0;;0;
+Harnstoff (grob-) gekörnt;dt;159;;0.46;;0;;0;
+Harnstoff (grob-) gekörnt;kg;84;;0.46;;0;;0;
+Harnstoff (grob-) granuliert;dt;835;;0.46;;0;;0;
+Harnstoff (grob-) granuliert 46%;dt;9;;0.46;;0;;0;
+Harnstoff gekörnt;dt;809;;0.46;;0;;0;
+Harnstoff geperlt;dt;14;;0.46;;0;;0;
+Harnstoff geprillt;dt;29;;0.46;;0;;0;
+Harnstoff granuliert;kg;101;;0.46;;0;;0;
+Harnstoff granuliert;dt;111;;0.46;;0;;0;
+Harnstoff grob;dt;362;;0.46;;0;;0;
+Harnstoff prilliert;dt;785;;0.46;;0;;0;
+Harnstoff prilliert 46;dt;40;;0.46;;0;;0;
+Hauert Tardit Media;dt;1;;0.17;0.09;0.0396;0.11;0.0913;
+Hennenkot;t;29;;10.5;30;13.2;20;16.6;kg/t
+Hennenkot (Kotband);t;25;;10.5;30;13.2;20;16.6;kg/t
+Hennenmist (Kotgrube, Bodenhaltung);t;41;;13.5;30;13.2;20;16.6;kg/t
+Hexabio / Biofert;dt;14;;0.04;0.015;0.0066;0.005;0.00415;
+Hornspäne fein;dt;11;;0.135;;0;;0;
+Jauchegrube;m³;92;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Jauchegrube Einfahrt;m³;7;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Jauchegrube hinten;m³;85;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Jauchegrube neu;m³;24;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Jauchegrube vorne;m³;38;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Jauchegrube Wagenschopf;m³;43;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Jauchgrube;m³;50;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+Junghennenmist;t;10;;13.5;30;13.2;20;16.6;kg/t
+Kälbermist;t;11;;1.9;2.3;1.012;5.5;4.565;kg/t
+Kalfosan;dt;17;;;0.2;0.088;0.3;0.249;
+Kali 60 %;kg;3;;;;0;0.6;0.498;
+Kali 60 %;dt;208;;;;0;0.6;0.498;
+Kali 60 % Granulat;dt;31;;;;0;0.6;0.498;
+Kalimagnesia;dt;12;;;;0;0.4;0.332;
+Kalimagnesia  30 % chlorfrei (Patentkali);dt;17;;;;0;0.3;0.249;
+Kalimagnesia chlorfrei (Patentkali);dt;18;;;;0;0.3;0.249;
+Kalinitrat Spritzqualität chlorfrei;dt;4;;0.13;;0;0.46;0.3818;
+Kalinitrat Streuqualität chlorfrei;dt;23;;0.13;;0;0.46;0.3818;
+Kalisalz 60 % Granulat;dt;247;;;;0;0.6;0.498;
+Kalisulfat 50 % Granulat chlorfrei;dt;14;;;;0;0.5;0.415;
+Kalk - Kali;dt;17;;;;0;0.4;0.332;
+Kalk-Ammonsalpeter + Mg;dt;206;;0.23;;0;;0;
+Kalkphos;dt;12;;;0.275;0.121;;0;
+Kalkphos 24% Ca;dt;4;;;0.275;0.121;;0;
+Kalksalpeter Nicht mehr Benutzen;dt;5;;0.155;;0;;0;
+Kalksalpeter Spritzqualität (CalciNit);dt;3;;0.155;;0;;0;
+Kalksalpeter Streuqualität;dt;4;;0.155;;0;;0;
+Kalksalpeter Streuqualität (NitraBor);dt;15;;0.155;;0;;0;
+Kalksalpeter Streuqualität (TropiCote);dt;2;;0.155;;0;;0;
+Kalkstickstoff gekörnt (Perlka);dt;55;;0.198;;0;;0;
+Kalkstickstoff gemahlen;dt;102;;0.2;;0;;0;
+Kalkstickstoff gemahlen (Agroline);dt;18;;0.2;;0;;0;
+Kaninchenmist;t;1;keine Infos;1.7;;0;;0;kg/t
+Kartoffeldünger;dt;1;;0.05;0.09;0.0396;0.3;0.249;
+Kartoffeldünger 1/3 chlorfrei;dt;47;;0.05;0.09;0.0396;0.3;0.249;
+Käsereigülle;m³;4;keine Infos;2.6;;0;;0;kg/m3
+Kompogülle;m³;4;Angaben Briner AG;1.6;1.7;0.748;4.2;3.486;kg/m3
+Kompogülle 2010;m³;3;Angaben Briner AG;1.6;1.7;0.748;4.2;3.486;kg/m3
+Kompost;t;119;aus GRUDAF 2001;0.55;4;1.76;5.7;4.731;kg/t
+Kompost;dt;2;;0.55;4;1.76;5.7;4.731;kg/t
+Kompost;m³;13;vom Strickhof;0.35;2;0.88;3;2.49;kg/m3
+Kompost Leureko;m³;4;;0.55;4;1.76;5.7;4.731;kg/t
+Kompostierter Mist;dt;6;keine Infos;1.7;;0;;0;
+Konzentrat 2.6N;m³;14;;2.6;;0;;0;kg/m3
+Konzentrat 3.5N;m³;2;;3.5;;0;;0;kg/m3
+Konzentrat 8.2kg N ;m³;7;;8.2;;0;;0;kg/m3
+Kristalon Rot;dt;70;;0.12;0.12;0.0528;0.36;0.2988;
+Kristalon Weiss;dt;3;;0.15;0.05;0.022;0.3;0.249;
+Landor 0.10.30 +  3 % Mg;dt;22;;;0.1;0.044;0.3;0.249;
+Landor 0.10.30 + 3 % Mg;dt;18;;;0.1;0.044;0.3;0.249;
+Landor 0.11.20.1,8;dt;10;;;0.11;0.0484;0.2;0.166;
+Landor 0.13.25 avec chaux;dt;37;;;0.13;0.0572;0.25;0.2075;
+Landor 0.13.25 mit Kalk;dt;48;;;0.13;0.0572;0.25;0.2075;
+Landor 0.13.26 + 3% Mg + B + S;dt;22;;;0.13;0.0572;0.26;0.2158;
+Landor 0.13.26 +3 % Mg + B + S;dt;14;;;0.13;0.0572;0.26;0.2158;
+Landor 0.20.30;dt;173;;;0.2;0.088;0.3;0.249;
+Landor 0.21.21 + 3 % Mg;dt;37;;;0.21;0.0924;0.21;0.1743;
+Landor 05.13.26 + 3% Mg + B + S;dt;2;;0.05;0.13;0.0572;0.26;0.2158;
+Landor 13.13.21;kg;12;;0.13;0.13;0.0572;0.21;0.1743;
+Landor 13.13.21;dt;102;;0.13;0.13;0.0572;0.21;0.1743;
+Landor 13.7.17 + Mg + S;dt;4;;0.13;0.07;0.0308;0.17;0.1411;
+Landor 13.9.16 + Mg + S;dt;19;;0.13;0.09;0.0396;0.16;0.1328;
+Landor 13.9.16.2,5.7;dt;13;;0.13;0.09;0.0396;0.16;0.1328;
+Landor 15.15.15;dt;133;;0.15;0.15;0.066;0.15;0.1245;
+Landor 20.08.08;dt;12;;0.2;0.08;0.0352;0.08;0.0664;
+Landor 20.10.0 + Mg + S;dt;36;;0.2;0.1;0.044;;0;
+Landor 20.10.10;dt;139;;0.2;0.1;0.044;0.1;0.083;
+Landor 20.10.10 Futterbau;dt;11;;0.2;0.1;0.044;0.1;0.083;
+Landor 21.21.3;kg;1;;0.21;0.21;0.0924;0.03;0.0249;
+Landor 21.8.11.1;dt;1;;0.21;0.08;0.0352;0.11;0.0913;
+Landor 5.10.30;dt;8;;0.05;0.1;0.044;0.3;0.249;
+Landor 5.12.24;kg;3;;0.05;0.12;0.0528;0.24;0.1992;
+Landor 5.12.24;dt;6;;0.05;0.12;0.0528;0.24;0.1992;
+landor Ammonsalpeter 26%+ B+S;dt;8;;0.26;;0;;0;
+Landor Betterave;dt;6;;0.05;0.09;0.0396;0.27;0.2241;
+Landor Colza;dt;11;;0.05;0.12;0.0528;0.24;0.1992;
+Landor Colza 05.12 .24;dt;3;;0.05;0.12;0.0528;0.24;0.1992;
+Landor Colza 5.12.24;dt;2;;0.05;0.12;0.0528;0.24;0.1992;
+Landor Kartoffeldünger 1/3 chlorfrei;dt;5;;0.05;0.09;0.0396;0.3;0.249;
+Landor n 24% + 4.4% Mg;dt;7;;0.24;;0;;0;
+Landor P 26;dt;14;;;0.26;0.1144;;0;
+Landor P 26% + 4.4% Mg;dt;99;;;0.26;0.1144;;0;
+Landor P26;dt;37;;;0.26;0.1144;;0;
+Landor P-Calcique 0.26.0;dt;8;;;0.26;0.1144;;0;
+Landor Polyvalent ;dt;16;;0.05;0.1;0.044;0.28;0.2324;
+Landor Polyvalent Mais;dt;9;;0.05;0.1;0.044;0.28;0.2324;
+Landor Pomme de terre;dt;1;;0.05;0.09;0.0396;0.27;0.2241;
+Landor Raps;dt;3;;0.05;0.12;0.0528;0.24;0.1992;
+Landor Raps 0.13.26 + 3% Mg + B + S;dt;2;;;0.13;0.0572;0.26;0.2158;
+Landor Rapsdünger;dt;12;;0.05;0.12;0.0528;0.24;0.1992;
+Landor Rüben;dt;4;;0.05;0.09;0.0396;0.27;0.2241;
+Landor Rübendünger;dt;18;;0.05;0.09;0.0396;0.27;0.2241;
+Landor Spécial 6.8.24.2.0,1 ex chl.;dt;22;;0.06;0.08;0.0352;0.24;0.1992;
+Landor spezial;kg;27;;0.06;0.08;0.0352;0.24;0.1992;
+Landor Spezial 6.8.24.2.0,1;dt;29;;0.06;0.08;0.0352;0.24;0.1992;
+Landor Spezial chlorfrei;dt;63;;0.06;0.08;0.0352;0.24;0.1992;
+Laufhof , Schweinestall;m³;16;Gülle;3.6;3.8;1.672;4.4;3.652;kg/m3
+Laufstallmist Rinder;t;1;;1.9;2.3;1.012;8.9;7.387;kg/t
+Laufstallmist Rindvieh;t;105;;1.9;2.3;1.012;8.9;7.387;kg/t
+Laufstallmist Rindviehmast;t;46;;1.9;2.3;1.012;8.9;7.387;kg/t
+Legumor chlorfrei;dt;5;;0.14;0.05;0.022;0.2;0.166;
+Lisier bovins dilué 1:1;m³;149;Rindergülle 1:1;1.3;0.9;0.396;2.6;2.158;kg/m3
+Lisier bovins dilué 1:2;m³;27;Rindergülle 1:2;0.85;0.6;0.264;1.7;1.411;kg/m3
+Lisier bovins non dilué;m³;39;;2.6;1.7;0.748;5.2;4.316;kg/m3
+Lisier bovins/poulets;m³;114;;6.9;3.9;1.716;5.9;4.897;kg/m3
+Lisier porcs 1:1;m³;5;;1.8;0.9;0.396;2.6;2.158;kg/m3
+Lisier porcs à l'engrais dilué 1:1;m³;2;;1.8;0.9;0.396;2.6;2.158;kg/m3
+Lisier porcs à l'engrais dilué 1:2;m³;15;;1.2;1.3;0.572;1.5;1.245;kg/m3
+Lisier porcs à l'engrais non dilué;m³;3;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Lisier porcs Grossrieder;m³;2;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Lithactiyl;dt;8;;0.13;0.05;0.022;0.17;0.1411;
+lithammon;dt;37;;0.14;0.05;0.022;;0;
+Litho KR;kg;5;;;;0;;0;
+Lonza 20.8.8;dt;8;;0.2;0.08;0.0352;0.08;0.0664;
+Lonza Sol N-flüssig;dt;19;;0.39;;0;;0;
+Lonza-Ammonsalpeter 27.5%;dt;368;;0.275;;0;;0;
+Lonza-Bor-Ammonsalpeter;dt;49;;0.275;;0;;0;
+Lonza-MgS 25 Ammonsalpeter ;dt;60;;0.25;;0;;0;
+Lonza-MgS-Ammonsalpeter 25;dt;270;;0.25;;0;;0;
+Lonza-sol N liquide;dt;68;;0.39;;0;;0;
+Magnesiumnitrat;dt;2;;0.07;;0;;0;
+Magnesiumnitrat flüssig;l;13;;0.07;;0;;0;in %
+Magnitra;l;7;;0.07;;0;;0;in %
+Maxistart;dt;2;;0.1;0.31;0.1364;;0;
+Mg-Ammonsalpeter;dt;;;0.25;;0;;0;
+Mg-Ammonsalpeter 23% + S;dt;;;0.23;;0;;0;
+Mg-Ammonsalpeter 24 % + 5%  Mg + S;dt;;;0.24;;0;;0;
+Mg-Ammonsalpeter 25% + S;dt;;;0.25;;0;;0;
+Mg-Ammonsulfat Plus;dt;;;0.21;;0;;0;
+Microplant;l;251;;0.05;;0;0.1;0.083;in %
+Microstar PZ 10.40.4,4S.2Zn (Microgranulat);dt;1;;0.1;0.4;0.176;;0;
+Microstar PZ 12.40.0;dt;1;;0.12;0.4;0.176;;0;
+Mischgülle Rind/Schwein Disler;m³;13;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schwein Notter;m³;15;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schwein Röösli;m³;24;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schwein Wildeisen;m³;1;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schweinemast 1:1, unverdünnt;m³;1;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schweinemast 1:1, verdünnt 1:1;m³;277;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schweinezucht 1:1, unverdünnt;m³;50;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mischgülle Rind/Schweinezucht 1:1, verdünnt 1:1;m³;372;Annahme 1:1 verdünnt;1.55;1.4;0.616;3.1;2.573;kg/m3
+Mist;Fuder;;;1.9;;;;;
+Mist Meier;t;9;;1.9;2.7;1.188;8.7;7.221;kg/t
+Mist Rohner;t;20;;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistgrube;t;39;;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistgüllengrube;m³;3;Annahme Kuhgülle;2;1.8;0.792;8;6.64;kg/m3
+Mistplatte;m³;9;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+Mistplatz;t;4249;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz ;t;1;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Augstburger;t;11;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Breitenau;t;24;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Bühl;t;34;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Hauptstall;t;18;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Hühner;t;3;;13.5;30;13.2;20;16.6;kg/t
+Mistplatz Jg 2007;t;3;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Junghennen;t;12;;15;26;11.44;15;12.45;kg/t
+Mistplatz Kühe;t;3;;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Poulet;t;29;;13.5;30;13.2;20;16.6;kg/t
+Mistplatz Schafstall;t;1;;4;3.3;1.452;16;13.28;kg/t
+Mistplatz Scheune Gey;t;54;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Schwanden;t;9;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Stall;t;4;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz und Laufhof;t;4;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Untergriesen;t;4;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz Wittwer;t;15;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz, Bergli;t;29;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatz, Planzer;t;5;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mistplatzt;t;65;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Miststock;t;1;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Mulkafos 10% Zeolith;dt;19;;0.13;0.04;0.0176;0.12;0.0996;
+Mulkafos chlorfrei;dt;2;;0.13;0.04;0.0176;0.12;0.0996;
+Neue Güllegrube;m³;59;Annhame Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+Nh4 27 % Mg;dt;39;;0.27;;0;;0;
+NIitroplus 20.5.8 + Mg/Na/S;dt;10;;0.2;0.05;0.022;0.08;0.0664;
+NIitroplus 20.5.8 + Mg/S/Na;dt;20;;0.2;0.05;0.022;0.08;0.0664;
+Nitrate ammoniaque 27 % N + 2.5 % Mg;dt;1991;;0.27;;0;;0;
+Nitrate d'amm. 27 % N + 2.5 % Mg;dt;17;;0.27;;0;;0;
+Nitrate d'ammoniaque 23 % + 13 % Ca;dt;12;;0.23;;0;;0;
+Nitrate d'ammoniaque 25% + Mg + S;dt;238;;0.25;;0;;0;
+Nitrate d'ammoniaque 27 %;dt;52;;0.27;;0;;0;
+Nitrate d'ammoniaque 27% + Mg + S;dt;30;;0.27;;0;;0;
+Nitrate d'ammoniaque 27.5 %;dt;1215;;0.275;;0;;0;
+Nitrate d'ammoniaque bore 27.5 %;dt;28;;0.275;;0;;0;
+Nitrate de chaux 15.5 % ;dt;25;;0.155;;0;;0;
+Nitrate de chaux 15.5 % N + Ca  (TropiCote);dt;3;;0.155;;0;;0;
+Nitrate de chaux hydrosoluble (CalciNit);dt;4;;0.155;;0;;0;
+Nitrate de potasse;dt;20;Kalinitrat;;;0;;0;
+Nitrate magnésien 24 % N + 5 % Mg + S;dt;153;;0.24;;0;;0;
+Nitrate magnésien 27 % + 2.5 % Mg + 9 % Ca;dt;6;;0.27;;0;;0;
+Nitrate magnésien 27% + 2.5 % Mg + 4.5 % Ca;dt;12;;0.27;;0;;0;
+Nitrophos 20% N / 10% P;dt;9;;0.2;0.1;0.044;;0;
+Nitrophos 20.10 + 4 % Mg;dt;20;;0.2;0.1;0.044;;0;
+Nitrophos 20.10.0 + 2 % Mg;dt;6;;0.2;0.1;0.044;;0;
+Nitrophos 20.10.0 + 4 % Mg+ 6% S;dt;8;;0.2;0.1;0.044;;0;
+Nitrophos 20.10.0+4%Mg;dt;4;;0.2;0.1;0.044;;0;
+Nitrophos 26% P;dt;23;;0.26;0.07;0.0308;;0;
+Nitrophos 26.7.0 + 2 % Mg;dt;94;;0.26;0.07;0.0308;;0;
+Nitrophos rapid NEU 20.10.0;dt;8;;0.2;0.1;0.044;;0;
+Nitrophos Rapide;dt;12;;0.2;0.1;0.044;;0;
+Nitrophos-Rapide;dt;43;;0.2;0.1;0.044;;0;
+Nitroplus 20.10;dt;3;;0.2;0.1;0.044;0.08;0.0664;
+Nitroplus 20.5.10.2;dt;1;;0.2;0.05;0.022;0.1;0.083;
+Nitroplus 20.5.8 + Mg/Na/S;dt;107;;0.2;0.05;0.022;0.08;0.0664;
+Nitroplus 20.5.8 + Mg/S/Na;dt;510;;0.2;0.05;0.022;0.08;0.0664;
+Nitroplus 20.5.8.;kg;1;;0.2;0.05;0.022;0.08;0.0664;
+Nitroplus Rapid  20.10.;dt;18;;0.2;0.1;0.044;;0;
+Nitroplus Reba Spez. 21.8.11;dt;14;;0.21;0.08;0.0352;0.11;0.0913;
+NK-plus 10.0.22.3.0,1;dt;12;;0.1;;0;0.22;0.1826;
+No-Till;dt;41;;0.19;0.3;0.132;;0;
+No-Till 19/30;dt;2;;0.19;0.3;0.132;;0;
+No-Till Feet-Food;dt;6;;0.19;0.3;0.132;;0;
+Novaphos;dt;5;;;0.18;0.0792;;0;
+Novaphos 0.18.0 + 4.2% Mg;dt;3;;;0.18;0.0792;;0;
+Novaphos 18 % + 4.2 % Mg;dt;44;;;0.18;0.0792;;0;
+NP 20.5;dt;6;;0.2;0.05;0.022;;0;
+NP 28.28;dt;6;;0.28;0.28;0.1232;;0;
+NP 28.28.;dt;27;;0.28;0.28;0.1232;;0;
+NP-Dünger;dt;34;;0.28;0.28;0.1232;;0;
+NPK 13.13.21;dt;55;;0.13;0.13;0.0572;0.21;0.1743;
+NPK 13.8.20;dt;9;;0.13;0.08;0.0352;0.2;0.166;
+NPK 15.15.15;dt;89;;0.15;0.15;0.066;0.15;0.1245;
+NPK 5.9.22;dt;6;;0.05;0.09;0.0396;0.22;0.1826;
+NPK 5.9.30 Kartoffeldünger;dt;65;;0.05;0.09;0.0396;0.3;0.249;
+NPK Rüben Mix;dt;1;;0.05;0.09;0.0396;0.27;0.2241;
+Nr. 132 Güllengrube;m³;172;Annahme Milchvieh;2;1.8;0.792;8;6.64;kg/m3
+Nr.139 Mistpl.;t;17;Annahe Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+O.P.F 8.3.3;l;6;;0.08;0.03;0.0132;0.03;0.0249;in %
+Offenes Güllensilo 540 m3;m³;17;Annahme Milchvieh;2.6;1.8;0.792;8;6.64;kg/m3
+P Calcique 26;dt;14;;;0.26;0.1144;;0;
+P K 21.21.3;kg;4;;0.21;0.21;0.0924;0.03;0.0249;
+P mit Kalk 26;dt;85;;;0.26;0.1144;;0;
+Patador;dt;7;;0.07;0.14;0.0616;0.24;0.1992;
+Patador 50 % sans chlore;dt;7;;0.07;0.14;0.0616;0.24;0.1992;
+Patador 50% chlorfrei;dt;87;;0.07;0.14;0.0616;0.24;0.1992;
+Patastar;l;2;;;440;193.6;75;62.25;g/l
+Patastar Plus;l;125;;;440;193.6;75;62.25;g/l
+Patastar plus;l;2;;;440;193.6;75;62.25;g/l
+Patent-Kali 30 % + Mg;kg;4;;;;0;0.3;0.249;
+Patent-Kali 30 % + Mg;dt;150;;;;0;0.3;0.249;
+Patentkali 30%;dt;7;;;;0;0.3;0.249;
+Patentkali 30% (chlorfrei);dt;33;;;;0;0.3;0.249;
+Patentkali plus 40%;dt;1;;;;0;0.4;0.332;
+Patentkali plus 40% (chlorfrei);dt;27;;;;0;0.4;0.332;
+Patentkali plus 40% sans chlore;dt;13;;;;0;0.4;0.332;
+Patentkali plus chlorfrei;dt;19;;;;0;0.3;0.249;
+Pe-Ka 0.20.20 mit Kalk;dt;4;;;0.2;0.088;0.2;0.166;
+Pe-Ka 0.21.21 + 3 % Mg;dt;84;;;0.21;0.0924;0.21;0.1743;
+Perlka Cyanamide;dt;7;;0.23;;0;;0;
+Perlka Kalkstickstoff;dt;74;;0.23;;0;;0;
+Perlka Kalkstickstoff geperlt;dt;10;;0.23;;0;;0;
+Pferdemist;t;27;;1.3;2.5;1.1;9.8;8.134;kg/t
+Pferdemist frisch;t;55;;0.55;2.5;1.1;9.8;8.134;kg/t
+Pferdemist Wagen;;2;keine Einheit;;;0;;0;
+Pferdemist zugeführt;Wagen;2;;;;0;;0;
+Pferdemist/ Zoo1.9;t;2;;1.9;2.5;1.1;9.8;8.134;kg/t
+Phoska 0.20.30;dt;17;;;0.2;0.088;0.3;0.249;
+Phoskaplus 0.10.25;dt;8;;;0.1;0.044;0.25;0.2075;
+Phoskaplus 0.10.30;dt;7;;;0.1;0.044;0.3;0.249;
+Photrel;kg;9;;0.05;0.12;0.0528;0.24;0.1992;
+"PK 0.10.24 ""CAY""";dt;13;;;0.1;0.044;0.24;0.1992;
+PK Kalk 0.13.25;dt;35;;;0.13;0.0572;0.25;0.2075;
+PK-MG-Kalk 0.13.25 + 2Mg;dt;48;;;0.13;0.0572;0.25;0.2075;
+Plüssfert Campo;dt;33;;0.05;0.08;0.0352;0.26;0.2158;
+Plüssfert Prairie;dt;4;;0.18;0.05;0.022;0.06;0.0498;
+Plüsskorn;dt;21;;0.13;0.06;0.0264;0.18;0.1494;
+Polydor;dt;6;;0.08;0.13;0.0572;0.3;0.249;
+Polydor ;dt;2;;0.08;0.13;0.0572;0.3;0.249;
+Polydor (bettr);dt;7;;0.08;0.13;0.0572;0.3;0.249;
+Polydor (Mais);dt;7;;0.08;0.13;0.0572;0.3;0.249;
+Polyvalent (Mais);dt;23;;0.05;0.1;0.044;0.28;0.2324;
+Potasse de magnésie;dt;24;;;;0;0.3;0.249;
+Potasse de magnésie sans chlore 30 %;dt;28;;;;0;0.3;0.249;
+Potasse granulée 60 %;dt;134;;;;0;0.6;0.498;
+Pouletmist;t;153;;13.5;30;13.2;20;16.6;kg/t
+Pouletmist;m³;1;;6.9;;0;;0;kg/m3
+Pouletmist 12;t;2;;13.5;30;13.2;20;16.6;kg/t
+Pouletmist 13;t;4;;13.5;30;13.2;20;16.6;kg/t
+Pouletmistplatz;t;11;;13.5;30;13.2;20;16.6;kg/t
+Premium Mix 0.14.28;dt;8;;;0.14;0.0616;0.28;0.2324;
+Premium Mix 5-10-30;dt;1;;0.05;0.1;0.044;0.3;0.249;
+Presswasser;m³;16;;1.6;1.7;0.748;4.2;3.486;kg/m3
+Presswasser ;m³;7;;1.6;1.7;0.748;4.2;3.486;kg/m3
+Presswasser Lenzburg;m³;3;;1.6;1.7;0.748;4.2;3.486;kg/m3
+Presswasser vom 01.01.2011;m³;1;;1.6;1.7;0.748;4.2;3.486;kg/m3
+Primasol Obst  wasserlöslich;dt;1;;0.1;0.06;0.0264;0.15;0.1245;in %
+Primasol Obst chlorfrei wasserlöslich;dt;3;;0.1;0.06;0.0264;0.15;0.1245;
+ProMix;dt;5;;0.13;0.1;0.044;0.3;0.249;
+ProMix 0-10-30;dt;9;;0;0.1;0.044;0.3;0.249;
+Protec Basic;l;111;;;0.3;0.132;0.2;0.166;in %
+Protec Extra;l;13;;0.03;0.27;0.1188;0.18;0.1494;in %
+Provita Vinasse;l;2;;0.045;;0;0.06;0.0498;in %
+Purin bovin/porcs à l'engrais 1:1, non dilué;m³;5;;1.55;1.4;0.616;3.1;2.573;kg/m3
+Purin bovin/porcs d'élevage 1:1, dilué 1:1;m³;6;;1.55;1.4;0.616;3.1;2.573;kg/m3
+Purin bovins à l'engrais;m³;19;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Purin bovins dilué 1:1;m³;106;;1.3;0.9;0.396;2.6;2.158;kg/m3
+Raclures de corne;dt;24;;0.135;;0;;0;
+Raps PK 0.13.26 + 3% Mg + B + S;dt;6;;;0.13;0.0572;0.26;0.2158;
+Rapsdünger;dt;16;;0.05;0.12;0.0528;0.24;0.1992;
+Rapsdünger 5.12.24;dt;3;;0.05;0.12;0.0528;0.24;0.1992;
+Rapsdünger Hün  Bor;dt;2;;0.05;0.12;0.0528;0.24;0.1992;
+Rapsdünger NPK;dt;6;;0.05;0.12;0.0528;0.24;0.1992;
+Rasan;dt;20;;0.2;0.08;0.0352;0.08;0.0664;
+Ricasol 15;dt;2;;0.15;0.15;0.066;0.15;0.1245;
+Ricokalk;dt;3;;;0.012;0.00528;;0;
+Ricokalk (Lieferung Hof);dt;53;;;0.012;0.00528;;0;
+Rindergülle + Hausabw.;m³;106;Annahme Vollgülle;2.6;1.7;0.748;5.2;4.316;kg/m3
+Rindervollgülle 1:2 verdünnt;m³;155;;0.85;0.6;0.264;1.7;1.411;kg/m3
+Rindvieh-Boxenlaufstall;m³;1;;1.9;2.3;1.012;8.9;7.387;kg/m3
+Rindvieh-Tiefstreustall (Ein- und Zweiflächensyste;m³;1;;1.9;2.3;1.012;8.9;7.387;kg/m3
+Rottemist-Platz;t;48;Annahme Kuhmist;1.7;2.7;1.188;8.7;7.221;kg/t
+Rübendünger;dt;45;;0.05;0.09;0.0396;0.27;0.2241;
+Rundsilo ;m³;213;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+RV Güllengrube;m³;25;;2;1.8;0.792;8;6.64;kg/m3
+Schaf-/Ziegenmist;t;3;;4;3.3;1.452;16;13.28;kg/t
+Schleppschlauch;mg;1;falsche Einheit ?;;;0;;0;
+Schweinegülle;m³;131;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Schweinegülle Mast (gemäss Vertrag U.Käser);m³;5;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Schweinegülle Mast 1:1 verdünnt;m³;279;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:1 verdünnt Brukhard Josef;m³;5;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:1 verdünnt Grau Peter;m³;2;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:1 verdünnt Hodel Andreas;m³;3;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:1 verdünnt Schmidlin Thomas;m³;14;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:1 verdünnt Steiger Martina;m³;13;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:1.69 verdünnt Grau Peter;m³;9;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Mast 1:2 verdünnt;m³;120;;1.2;1.3;0.572;1.5;1.245;kg/m3
+Schweinegülle Mast unverdünnt;m³;49;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Schweinegülle Swissag;m³;3;;3.6;3.8;1.672;4.4;3.652;kg/m3
+Schweinegülle Swissag Mast 1:1 verdünnt;m³;53;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Zucht 1:1 verdünnt;m³;209;;1.8;1.9;0.836;2.2;1.826;kg/m3
+Schweinegülle Zucht 1:2 Hertach;m³;10;;1.2;1.3;0.572;1.5;1.245;kg/m3
+Schweinegülle Zucht 1:2 verdünnt;m³;17;;1.2;1.3;0.572;1.5;1.245;kg/m3
+Schweinegülle Zucht 1:2 verdünnt, 2009,  Bigler;m³;7;;1.2;1.3;0.572;1.5;1.245;kg/m3
+Schweinemist;t;23;;3.9;7;3.08;8.3;6.889;kg/t
+Schwemmkanal;m³;30;keine Infos;2.6;;0;;0;kg/m3
+scorie potassique 0-15-10;dt;6;;;0.15;0.066;0.1;0.083;
+Scorie potassique 12.11.3 Mg. 4 S;dt;22;;0.12;0.11;0.0484;0.03;0.0249;
+Scories potassiques 0.11.11 + 2,4% Mg;dt;6;;;0.11;0.0484;0.11;0.0913;
+Scories potassiques 0.11.20 + 2.4% Mg;dt;9;;;0.11;0.0484;0.2;0.166;
+Scories potassiques 0.12.11 + 3.6% Mg;dt;6;;;0.12;0.0528;0.11;0.0913;
+Seniphos (P + Ca);l;8;;;0.31;0.1364;;0;
+Silo à lisier en béton, avec couverture;m³;13;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+Spezial Volldünger;dt;2;;0.12;0.08;0.0352;0.16;0.1328;
+Spezial Volldünger chlorfrei;dt;16;;0.12;0.08;0.0352;0.16;0.1328;
+Stall Super plus;dt;4;;;0.12;0.0528;;0;
+Stapelmist;t;17;Annahme Kuhmist;1.5;2.7;1.188;8.7;7.221;kg/t
+Stapelmist Pferde;dt;7;;0.19;2.5;1.1;9.8;8.134;kg/t
+Stapelmist Rindvieh;t;153;;1.9;2.3;1.012;8.9;7.387;kg/t
+Stapelmist Rindvieh;dt;7;;0.19;0.23;0.1012;0.55;0.4565;kg/dt
+Stapelmist Rindvieh t;t;12;;1.5;;0;;0;kg/t
+Stappelmist;t;25;Annahme Kuhmist;1.7;2.7;1.188;8.7;7.221;kg/t
+Steinmehl siliziumreich;dt;6;;;;0;0.01;0.0083;
+Sulfamid 30 % N + 3 % Mg + S;dt;207;;0.3;;0;;0;
+Sulfammo;dt;47;Annahme Sulfammo 23;0.23;;0;;0;
+Sulfammo 18.5;dt;27;;0.18;;0;;0;
+Sulfammo 26;dt;7;;0.26;;0;;0;
+Sulfamo;dt;16;Annahme Sulfammo 23;0.23;;0;;0;
+Sulfamo 26;dt;68;;0.26;;0;;0;
+Sulfate ammoniaque gran. 21 % N + S;dt;63;;0.21;;0;;0;
+Sulfate d'ammoniaque Mg plus;dt;17;;0.21;;0;;0;
+Sulfate de potasse granulée 50 % sans chlore;dt;1;;;;0;0.5;0.415;
+Sulfo-Magnésien 25;dt;9;;0.25;;0;;0;
+Sulfo-magnésien 25 N, 5 Mg, 8,5 S;dt;19;;0.25;;0;;0;
+Sulfonitrate 21% N + B + S;dt;3;;0.21;;0;;0;
+Sulfonitrate 26 %;dt;105;;0.26;;0;;0;
+Sulfonitrate 26 % N + B + S;dt;269;;0.26;;0;;0;
+Superphosfat;dt;4;;;0.18;0.0792;;0;
+Superphosphat + Mg;dt;19;;;0.18;0.0792;;0;
+Supertriple;dt;45;;;0.46;0.2024;;0;
+Suplesan;dt;335;;0.2;0.08;0.0352;0.08;0.0664;
+Suplésan;dt;37;;0.2;0.08;0.0352;0.08;0.0664;
+Tas de fumier;t;815;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Tas de fumier 2000;t;32;Annahme Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Tas de fumier Bois;t;3;Rindermist;1.9;2.3;1.012;8.9;7.387;kg/t
+Tas de fumier Dany;t;5;Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+tas de fumier des génisses;t;5;Kälbermist;1.9;2.3;1.012;5.5;4.565;kg/t
+Tas de fumier des génisses;t;1;Kälbermist;1.9;2.3;1.012;5.5;4.565;kg/t
+Tas de fumier du domaine;t;5;Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+tas de fumier génisse;t;14;Kälbermist;1.9;2.3;1.012;5.5;4.565;kg/t
+Tas de fumier Gonin;t;3;Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Tas de fumier vaches;t;25;Kuhmist;1.9;2.7;1.188;8.7;7.221;kg/t
+Terbona  chlorfrei;dt;38;;0.12;0.06;0.0264;0.18;0.1494;
+Terbona  chlorfrei (Gemüse);dt;27;;0.12;0.06;0.0264;0.18;0.1494;
+Terbona 12.6.18.2.0,1 ex chl.;dt;2;;0.12;0.06;0.0264;0.18;0.1494;
+Terbona IP chlorfrei;dt;2;;0.12;0.06;0.0264;0.18;0.1494;
+Thomasgranulat;dt;2;;;0.11;0.0484;0.2;0.166;
+Thomaskali 0.11.20 + 1.8% Mg;dt;10;;;0.11;0.0484;0.2;0.166;
+Thomaskali 0.11.20 + 1.8% Mg (calcium agro);dt;44;;;0.11;0.0484;0.2;0.166;
+Thomaskali 0.11.20 + 2.4% Mg (Landor);dt;7;;;0.11;0.0484;0.2;0.166;
+Thomaskali 0.12.11 + 3 % Mg;dt;15;;;0.12;0.0528;0.11;0.0913;
+Tomaskali 0.12.11.3MG;kg;6;;;0.12;0.0528;0.11;0.0913;
+TPS Triple Superphosphat;dt;9;;;0.46;0.2024;;0;
+Tresan;dt;10;;0.13;0.13;0.0572;0.21;0.1743;
+Triamon plus 26%;dt;18;;0.26;;0;;0;
+Triphoska;dt;95;;;0.1;0.044;0.25;0.2075;
+Triphoska 0.10.25;dt;14;;;0.1;0.044;0.25;0.2075;
+Triple - Super;dt;148;;;0.46;0.2024;;0;
+Triple Superphosphat;dt;164;;;0.46;0.2024;;0;
+TSP Supertriple;dt;6;;;0.46;0.2024;;0;
+TSP Triple Superphosphat;dt;43;;;0.46;0.2024;;0;
+Umostart Super;kg;3;;0.11;0.46;0.2024;;0;
+UNIFERT ;dt;3;;0.14;0.05;0.022;0.16;0.1328;
+Unifert 14.5.16 +2 mg;dt;6;;0.14;0.05;0.022;0.16;0.1328;
+Unifert 14-5-16;dt;2;;0.14;0.05;0.022;0.16;0.1328;
+Unikorn I gekörnt 14.4.20;dt;4;;0.14;0.04;0.0176;0.2;0.166;
+Urée granulée 46 % N;dt;169;;0.46;;0;;0;
+Urée perlée;dt;23;;0.46;;0;;0;
+Vernal Plus;dt;227;;0.2;0.06;0.0264;0.06;0.0498;
+Vidoc;kg;2;;0.1;0.04;0.0176;0.15;0.1245;
+Vidoc 10-4-15-4Mg;dt;6;;0.1;0.04;0.0176;0.15;0.1245;
+Vivasol;dt;9;;0.046;0.033;0.01452;0.025;0.02075;
+Volaille;t;2;Geflügelmist;13.5;30;13.2;20;16.6;kg/t
+Vollgülle;m³;25;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+Vollgülle gem. Rind/Schweinemast 1:1, verdünnt 1:1;m³;212;;1.55;1.4;0.616;3.1;2.573;kg/m3
+Vollgülle gem. Rind/Schweinemast 1:1, verdünnt 1:1 Bütler 09;m³;33;;1.55;1.4;0.616;3.1;2.573;kg/m3
+Vollgülle Rinder 1:1 verdünnt;m³;310;;1.3;0.9;0.396;2.6;2.158;kg/m3
+Vollgülle Rinder 1:2 verdünnt;m³;56;;0.85;0.6;0.264;1.7;1.411;kg/m3
+Vollgülle Rinder unverdünnt;m³;18;;2.6;1.7;0.748;5.2;4.316;kg/m3
+Vollgülle Rindviehmast 1:1 verdünnt;m³;10;;1.3;0.9;0.396;2.6;2.158;kg/m3
+Vollgülle Rindviehmast 1:2 verdünnt;m³;7;;0.85;0.6;0.264;1.7;1.411;kg/m3
+vor Scheune ;m³;25;Annahme Kuhgülle;2.6;1.8;0.792;8;6.64;kg/m3
+vrac céréales 2009;dt;;;0.27;;0;;0;Annahmen
+vrac colza 2009;dt;;;0.27;;0;;0;Annahmen
+Weisskorn;dt;62;;0.33;;0;;0;
+Winkeli/Weide;m³;155;Annahme Nitroplus;0.2;0.05;0.022;0.08;0.0664;kg/m3
+Wuxal;l;102;Annahme Universaldünger;99;99;43.56;75;62.25;g/l
+Wuxal Boron;l;54;;110;137;60.28;;0;g/l
+Wuxal Ca;l;7;;160;;0;;0;g/l
+Wuxal Mn;l;1;;320;;0;240;199.2;g/l
+Wuxal Pflanzen;l;2;Annahme Universaldünger;99;99;43.56;75;62.25;g/l
+Wuxal Profi;l;76;;99;99;43.56;75;62.25;g/l
+Wuxal Suspension Ca;l;153;;160;;0;;0;g/l
+Wuxal Suspension Mg;l;478;;54;;0;;0;g/l
+Wuxal Suspension Mn;l;85;;320;;0;240;199.2;g/l
